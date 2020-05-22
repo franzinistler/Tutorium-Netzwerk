@@ -1,0 +1,15 @@
+from,to,weight,duration,relationship
+Ego,Krissi,4,3,10
+Ego,Kim,4,2,10
+Ego,Amelie,3,1,6
+Ego,Cedrik,2,2,10
+Krissi,Ego,4,3,10
+Krissi,Kim,4,2,10
+Krissi,Cedrik,2,2,10
+Kim,Ego,4,2,10
+Kim,Krissi,4,2,10
+Kim,Cedrik,2,2,10
+Amelie,Ego,3,1,6
+Cedrik,Ego,2,2,10
+Cedrik,Krissi,2,2,10
+Cedrik,Kim,2,2,10
